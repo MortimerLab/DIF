@@ -1,0 +1,67 @@
+Physical Interactions:
+Direct Interactions:
+Gene #1	Gene #2
+tub	Myd88
+tub	pll
+pll	dl
+tub	dl
+spz	Tl
+wek	Myd88
+Tehao	Tl
+pll	Tehao
+wek	Tl
+pll	Myd88
+Myd88	Tl
+pll	Tl
+tub	Tl
+
+
+Physical Interactions:
+Shared Interactions:
+Shared Interactor	Input Genes
+MED17	dl	Dif	
+Toll-6	spz5	Myd88	wek	
+smt3	Myd88	tub	dl	
+cher	tub	pll	
+Rel	dl	Dif	
+Ect4	wek	Myd88	
+MED21	dl	Dif	
+MED31	Dif	dl	
+mir-8	Tl	dl	
+Pli	pll	Myd88	tub	
+cact	Dif	dl	tub	pll	
+Toll-7	spz5	Myd88	
+mir-958	Tl	Dif	
+Cdk8	Dif	dl	
+
+
+Genetic Interactions:
+Direct Interactions:
+Gene #1	Gene #2
+dl	Dif
+Dif	dl
+wek	Myd88
+wek	tub
+Tl	Dif
+wek	Tl
+spz	Tl
+Tl	Myd88
+Tl	spz
+wek	pll
+
+
+Genetic Interactions:
+Shared Interactions:
+Shared Interactor	Input Genes
+Ect4	Myd88	wek	
+Rel	Tl	spz	
+lwr	Dif	dl	
+vtd	Tl	dl	
+Toll-6	Myd88	spz	wek	
+NT1	spz	spz5	
+mxc	Tl	tub	
+pnr	Myd88	Tl	
+dlg1	Myd88	Tl	spz	
+cact	Dif	Tl	dl	pll	spz	tub	
+mad2	Tl	dl	pll	spz	
+tor::tub	Myd88	tub	
