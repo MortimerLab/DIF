@@ -1,0 +1,191 @@
+Physical Interactions:
+Direct Interactions:
+Gene #1	Gene #2
+mod(mdg4)	su(Hw)
+E(z)	E(z)
+mod(mdg4)	mod(mdg4)
+su(Hw)	su(Hw)
+su(Hw)	pre-mod(mdg4)-T
+E(bx)	su(Hw)
+Su(H)	Su(Tpl)
+
+
+Physical Interactions:
+Shared Interactions:
+Shared Interactor	Input Genes
+Rel	Su(H)	su(Hw)	
+HIPP1	su(Hw)	mod(mdg4)	
+HDAC1	E(z)	Su(H)	
+Hr78	su(Hw)	Su(H)	
+His3	E(z)	E(bx)	
+fs(1)h	su(Hw)	mod(mdg4)	
+z	mod(mdg4)	su(Hw)	
+N	Su(H)	Su(dx)	
+shep	su(Hw)	mod(mdg4)	
+Clamp	su(Hw)	mod(mdg4)	
+lilli	Su(Tpl)	Su(H)	
+east	su(Hw)	mod(mdg4)	
+rump	mod(mdg4)	su(Hw)	
+Topors	mod(mdg4)	su(Hw)	
+Chi	mod(mdg4)	su(Hw)	
+Trl	mod(mdg4)	E(bx)	E(z)	
+Cp190	mod(mdg4)	su(Hw)	E(bx)	
+CG31955	Su(H)	su(Hw)	
+Caf1-55	E(z)	E(bx)	
+
+
+Genetic Interactions:
+Direct Interactions:
+Gene #1	Gene #2
+E(spl)mγ-HLH	Su(Tpl)
+βTub60D::βTub85D	βTub85D
+mod(mdg4)	su(Hw)
+α-Cat	α-Cat::shg
+AP-2α	AP-2σ
+Sytα	Sytβ
+Su(H)	Su(Tpl)
+γTub37C	E(γTub37C<up>1</up>)
+Liprin-α	Liprin-β
+β-Spec	α-Spec
+Prosβ2	Prosβ6
+Kap-α3	Kap-α1
+Sytβ	Sytα
+Liprin-α	Liprin-γ
+14-3-3ε	14-3-3ζ
+Gαq	Gβ76C
+Octβ2R	Octβ1R
+Gαo	Gγ1
+α-Spec	β-Spec
+Prosβ6	Prosα2
+Prosβ6	Prosβ2
+E(z)	E(Pc)
+α-Cat	α-Cat::baz
+ScsβA	ScsβA::ScsβG
+E(spl)mβ-HLH	Su(dx)
+Liprin-β	Liprin-α
+β3GalTII	β4GalT7
+Octβ1R	Octβ2R
+Gβ76C	Gαq
+Prosα2	Prosβ6
+Prosα6T	Prosα6
+AP-2α::numb	AP-2α
+β4GalT7	β3GalTII
+βTub85D	αTub84B
+CkIIα	CkIIβ
+Prosβ2	Prosα2
+Liprin-β	Liprin-γ
+
+
+Genetic Interactions:
+Shared Interactions:
+Shared Interactor	Input Genes
+yki	14-3-3ε	14-3-3ζ	βggt-I	
+Dl	AP-2α	Kap-α3	Su(H)	Su(dx)	su(f)	γTub23C	
+N	AP-2α	CkIIα	E(spl)m8-HLH::E(spl)mδ-HLH	E(spl)mα-BFM	E(spl)mβ-HLH	E(spl)mγ-HLH	E(spl)mδ-HLH	Kap-α3	Prosβ2	Prosβ6	Su(H)	Su(H)	Su(Tpl)	Su(dx)	Su(spl)	e(fa<up>swb</up>)	e(r)	su(N)	su(fa<up>swb</up>)	α-Cat	α4GT1	
+park	AMPKα	ATPsynβ	
+RpII140	su(RpII140<up>Z36</up>)S1	su(RpII140<up>Z36</up>)S10	su(RpII140<up>Z36</up>)S11	su(RpII140<up>Z36</up>)S12	su(RpII140<up>Z36</up>)S13	su(RpII140<up>Z36</up>)S14	su(RpII140<up>Z36</up>)S15	su(RpII140<up>Z36</up>)S16	su(RpII140<up>Z36</up>)S17	su(RpII140<up>Z36</up>)S18	su(RpII140<up>Z36</up>)S19	su(RpII140<up>Z36</up>)S2	su(RpII140<up>Z36</up>)S20	su(RpII140<up>Z36</up>)S3	su(RpII140<up>Z36</up>)S4	su(RpII140<up>Z36</up>)S5	su(RpII140<up>Z36</up>)S6	su(RpII140<up>Z36</up>)S7	su(RpII140<up>Z36</up>)S8	su(RpII140<up>Z36</up>)S9	
+slbo	AP-2α	slbo::Rat_C-EBP-α	slbo::Rat_C-EBP-δ	
+Psc	E(z)	E(z)	
+f	E(f)	IKKε	e(w<up>e</up>)	su(Hw)	su(f)	
+Bx	Gαs	Su(Tpl)	mod(mdg4)	su(Hw)	
+ncd	αTub67C	γTub37C	
+Src42A	14-3-3ζ	Su(H)	
+DCTN1-p150	Su(H)	β-Spec	
+Pp1-87B	E(z)	Pp1α-96A	
+pr	su(pr)	su(sable)	
+Diap1	IKKε	lncRNA:Hsrω	
+ptc	Su(fu)	Su(fu)	
+ro	E(ro<up>DOM</up>)1065	E(ro<up>DOM</up>)1777	E(ro<up>DOM</up>)1801	E(ro<up>DOM</up>)2051	E(ro<up>DOM</up>)2409	E(ro<up>DOM</up>)3222	E(ro<up>DOM</up>)50	Su(ro<up>DOM</up>)1480	Su(ro<up>DOM</up>)1993	Su(ro<up>DOM</up>)2014	Su(ro<up>DOM</up>)3023	Su(ro<up>DOM</up>)345	Su(ro<up>DOM</up>)519	Su(ro<up>DOM</up>)923	
+sei	Ca-α1D	e(sei)	
+shg	shg::Rnor_Cd2::α-Cat	α-Cat	α-Cat::shg	
+r	e(r)	su(Hw)	su(r)	
+chb	E(bx)	Su(dx)	
+COX5A	Prosβ6	SNF4Aγ	
+sc	E(spl)mβ-HLH	E(spl)mγ-HLH	E(spl)mδ-HLH	mod(mdg4)	su(Hw)	
+dx	Kap-α3	Su(H)	Su(dx)	Su(dx)	
+trx	mod(mdg4)	mod(mdg4)	
+dpy	e(dpy<up>v</up>)	su(dpy<up>ov</up>)	
+Pc	E(Pc)	E(z)	E(z)	
+ninaE	Cdk5α	Gαq	
+Su(var)2-1	E(z)	mod(mdg4)	
+B	E(B)	su(Bar)	su(Hw)	
+lncRNA:roX1	E(bx)	Su(Tpl)	
+mib1	α4GT1	α4GT2	
+Dcp-1	SNF4Aγ	lncRNA:Hsrω	
+tutl	Actβ	Kap-α3	
+foxo	14-3-3ε	Gycα99B	Gycβ100B	dj-1β	
+vn	Prosβ2	Prosβ6	Su(H)	
+Cdk9	E(spl)mγ-HLH	Su(H)	
+Mad	Actβ	Scgδ	
+E(spl)m8-HLH	CkIIα	CkIIα	Su(H)	
+Pcl	E(Pc)	E(z)	
+ct	14-3-3ζ	E(z)	Gαi	Su(Tpl)	mod(mdg4)	su(Hw)	
+H	14-3-3ζ	CkIα	Prosβ2	Prosβ6	Sec61α	Su(H)	Su(H)	Su(dx)	
+faf	14-3-3ζ	DNApol-α60	Prosβ6	
+Smox	Actβ	DJ-1α	Scgδ	mod(mdg4)	
+Pdfr	CkIIα	CkIIβ	
+Marcal1	E(Pc)	E(z)	
+pyd	Su(dx)	Su(dx)	α-Cat	
+w	E(Pc)	E(w<up>a</up>)	E(w<up>a</up>)705	E(w<up>a</up>)706	E(w<up>a</up>)709	E(w<up>a</up>)736	E(w<up>a</up>)757	E(w<up>a</up>)761	E(w<up>a</up>)818	E(w<up>a</up>)829	E(z)	Su(w<up>a4</up>)	Su(w<up>ch</up>)	e(w<up>e</up>)	su(Hw)	su(f)	su(w<up>a</up>)	
+comt	E(comt<up>6</up>)21E	E(comt<up>6</up>)E32	su(comt<up>6</up>)S14	αSnap	
+trio	Liprin-α	Liprin-β	
+arm	Su(H)	α-Cat::shg	
+brat	CkIα	E(spl)mγ-HLH	
+pins	Gαi	Gαo	αTub67C	αTub84B	βTub56D	βTub60D	
+mam	Su(H)	Su(H)	
+Snr1	E(z)	E(z)	Su(Tpl)	
+pho	E(Pc)	E(z)	
+S6kII	CkIIα	CkIIβ	
+Ubx	E(bx)	e(w<up>e</up>)	su(Hw)	su(Ubx<up>bx-1</up>)	
+brm	E(z)	γTub23C	
+unc-104	AP-2α	γTub23C	
+Iswi	E(bx)	lncRNA:Hsrω	
+y	mod(mdg4)	su(Hw)	su(sable)	
+tkv	E(spl)mβ-HLH	Impβ11	
+E2f1	E(Pc)	Su(E1)-A	Su(E1)-B	Su(E1)-C	Su(E1)-D	Su(E1)-E	Su(E1)-F	Su(E1)-G	Su(E1)-H	Su(E1)-I	Su(E1)-J	Su(E1)-K	Su(E1)-L	Su(E1)-M	Su(E1)-N	Su(E1)-O	
+dom	E(Pc)	E(z)	
+tor	14-3-3ε	14-3-3ζ	
+numb	Prosβ6	Su(H)	
+CycE	E(Pc)	S(CycE<up>JP</up>)13S1	S(CycE<up>JP</up>)1S3	S(CycE<up>JP</up>)2.10	S(CycE<up>JP</up>)2.13	S(CycE<up>JP</up>)2.4	S(CycE<up>JP</up>)2.6	S(CycE<up>JP</up>)2.7	S(CycE<up>JP</up>)2.8	S(CycE<up>JP</up>)2.9	S(CycE<up>JP</up>)20S1	S(CycE<up>JP</up>)3.1	S(CycE<up>JP</up>)3.2	S(CycE<up>JP</up>)3.3	S(CycE<up>JP</up>)3.4	S(CycE<up>JP</up>)42S12	S(CycE<up>JP</up>)42S33	S(CycE<up>JP</up>)43S1	S(CycE<up>JP</up>)47S8	S(CycE<up>JP</up>)59S18	S(CycE<up>JP</up>)59S9	S(CycE<up>JP</up>)68S10	S(CycE<up>JP</up>)E9S1	mod(mdg4)	
+erm	E(spl)mγ-HLH	E(spl)mγ-HLH	
+fu	Su(fu)	Su(fu)	
+gro	E(spl)mβ-HLH	Su(H)	
+X11L	AP-2α	X11Lβ	
+lawc	Prosβ6	mod(mdg4)	
+Nsf2	E(z)	αSnap	
+sev	Actβ	Kap-α3	
+ci	Su(H)	su(Hw)	
+CTCF	mod(mdg4)	mod(mdg4)	
+da	E(da)	Su(da<up>lyh</up>)22C1	Su(da<up>lyh</up>)22C6	Su(da<up>lyh</up>)26E2	Su(da<up>lyh</up>)26H6	
+Tom	Su(H)	Su(H)	α4GT1	
+qvr	nAChRα3	nAChRα4	nAChRβ3	
+aop	Su(H)	Su(Tpl)	
+crb	α-Spec	β-Spec	
+lz	e(w<up>e</up>)	mod(mdg4)	su(Hw)	su(f)	su(lz<up>34</up>)	
+Trl	E(bx)	E(z)	mod(mdg4)	
+vtd	E(z)	mod(mdg4)	
+mr	Liprin-α	e(mr)	
+Pink1	DJ-1α	dj-1β	β4GalNAcTA	
+hop	E(bx)	E(hop<up>Tum</up>)	Gαf	
+Psn	AP-1μ	Su(H)	γTub23C	
+TkR99D	Gβ5	Gγ1	
+nej	E(z)	lncRNA:Hsrω	
+gcm	E(bx)	E(z)	Su(H)	
+par-1	14-3-3ε	IKKε	
+Ras85D	14-3-3ε	DJ-1α	Sec61β	Su(Tpl)	βggt-I	
+ap	lncRNA:Hsrω	mod(mdg4)	su(Hw)	
+Pen	Kap-α1	Kap-α3	
+Plc21C	Gαo	Gαq	
+esc	E(Pc)	E(z)	
+lok	DNApol-η	SNF4Aγ	
+Sxl	Su(Sxl<up>fs</up>)46	Su(Sxl<up>fs</up>)X2	
+sqh	AMPKα	α-Cat	
+rpr	IKKε	Prosβ6	lncRNA:Hsrω	α4GT1	
+Pten	DJ-1α	dj-1β	
+Dronc	IKKε	lncRNA:Hsrω	
+Ret	DJ-1α	dj-1β	
+peb	Mtpβ	Sec61α	Sec61β	
+Rho1	SNF4Aγ	α-Cat	
+Dhc64C	IKKε	β-Spec	
+sgg	Liprin-α	Su(fu)	
+orb	CkIIα	CkIIβ	
